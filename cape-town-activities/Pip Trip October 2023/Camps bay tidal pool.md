@@ -1,0 +1,3 @@
+- Run 
+- Swim 
+- okja coffee

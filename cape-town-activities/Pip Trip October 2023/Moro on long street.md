@@ -1,0 +1,5 @@
+- Hot evening 
+- Healthy dinner 
+- Walk to Moro on long 
+- Walk to roxy late night 
+- Walk/uber home depending on time

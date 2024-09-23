@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "6581d248de423090",
+    "type": "split",
+    "children": [
+      {
+        "id": "31abc2ae961f3d60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0f6f969a66d894b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4222d639f6b3ae78",
+    "type": "split",
+    "children": [
+      {
+        "id": "9885e6986b0b8cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27d74b770b55f699",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8b98d1634cd9431",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9a32c5e540c2d0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f304241849dfeba",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c6d1b966b587ee8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7812bf4348ee22b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8546dd24d78f84f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "569b9c419d747195",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f004f981b071fb1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "27d74b770b55f699",
+  "lastOpenFiles": [
+    "Pip Trip October 2023/Sundowners at Bakoven.md",
+    "Pip Trip October 2023/Seapoint.md",
+    "Pip Trip October 2023/Ramen in Town.md",
+    "Pip Trip October 2023/Ramen District Six.md",
+    "Pip Trip October 2023/Pip trip October 2024.md",
+    "Pip Trip October 2023/Pip Trip Board.md",
+    "Pip Trip October 2023/Picnic in Disa park.md",
+    "Pip Trip October 2023/Moro on long street.md",
+    "Pip Trip October 2023/Kloof corner.md",
+    "Pip Trip October 2023/Hout bay.md",
+    "Pip Trip October 2023/Harrington.md",
+    "Pip Trip October 2023/Flour market.md",
+    "Pip Trip October 2023/De Waterkant Cofee Crawl.md",
+    "Pip Trip October 2023/Coffee walk through town.md",
+    "Pip Trip October 2023/Coffee over town.md",
+    "Pip Trip October 2023/Camps bay tidal pool.md",
+    "Pip Trip October 2023/Bar crawl down Kloof.md",
+    "Pip Trip October 2023",
+    "Welcome.md"
+  ]
+}

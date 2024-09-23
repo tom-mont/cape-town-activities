@@ -1,0 +1,4 @@
+- Groceries in the morning
+- Cook during lunch 
+- Head to Bakoven
+- Swim, sundowners

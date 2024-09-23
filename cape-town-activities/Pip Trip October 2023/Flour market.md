@@ -1,0 +1,4 @@
+ - Walk down to flour market 
+- Coffee 
+- Pastry 
+- Buy bread rolls 
