@@ -8,7 +8,7 @@ LANDING_BUTTON = "Click to steal some👆"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "I have nothing but intelligence."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "home"
+LANDING_PAGE = "./'Pip Trip October 2023'/'Pip Trip Board'"
 # (Optional) Site title on landing page
 LANDING_TITLE = "A site describing activities for Pip and Tom to do in October 💖"
 PYTHON_VERSION = "3.8"
