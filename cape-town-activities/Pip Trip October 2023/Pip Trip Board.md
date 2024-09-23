@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## 
+## Morning (>2 hours)
 
 - [ ] [[Coffee walk through town]]
 - [ ] [[Harrington]]
@@ -33,6 +33,7 @@ kanban-plugin: board
 - [ ] [[Sundowners at Bakoven]]
 - [ ] [[Picnic in Disa park]]
 - [ ] [[Kloof corner]]
+- [ ] [[Cook Dinner At Home]]
 
 
 
