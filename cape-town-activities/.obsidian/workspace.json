@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pip Trip October 2023/Pip Trip Index.md",
+                "file": "Pip Trip Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pip Trip October 2023/Pip Trip Index.md",
+                "file": "Pip Trip Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pip Trip October 2023/Pip Trip Index.md",
+                "file": "Pip Trip Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pip Trip October 2023/Pip Trip Index.md"
+                "file": "Pip Trip Index.md"
               }
             }
           }
@@ -148,30 +147,30 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "acf697033412172b",
+  "active": "27d74b770b55f699",
   "lastOpenFiles": [
     "netlify.toml~",
-    "Pip Trip October 2023/Exploring Harrington.md",
-    "Really nice things in town.md",
-    "Pip Trip October 2023/Pip Trip Index.md",
-    "Pip Trip October 2023/Ramen District Six.md",
-    "Pip Trip October 2023/Ramen in Town.md",
-    "Pip Trip October 2023/Bar crawl down Kloof.md",
-    "Pip Trip October 2023/Moro on long street.md",
-    "Pip Trip October 2023/De Waterkant Cofee Crawl.md",
-    "Pip Trip October 2023/Coffee walk through Gardens.md",
-    "Pip Trip October 2023/Cook Dinner At Home.md",
-    "Pip Trip October 2023/Sundowners on Kloof corner.md",
-    "Pip Trip October 2023/Picnic in Disa park.md",
-    "Pip Trip October 2023/Sundowners at Bakoven.md",
-    "Pip Trip October 2023/Cheeky meander to Flour Market.md",
-    "Pip Trip October 2023/Swim at Camps Bay tidal pool.md",
+    "Activities/Exploring Harrington.md",
+    "Activities/Really nice things in town.md",
+    "Pip Trip Index.md",
+    "Activities/Ramen District Six.md",
+    "Activities/Ramen in Town.md",
+    "Activities/Bar crawl down Kloof.md",
+    "Activities/Moro on long street.md",
+    "Activities/De Waterkant Cofee Crawl.md",
+    "Activities/Coffee walk through Gardens.md",
+    "Activities/Cook Dinner At Home.md",
+    "Activities/Sundowners on Kloof corner.md",
+    "Activities/Picnic in Disa park.md",
+    "Activities/Sundowners at Bakoven.md",
+    "Activities/Cheeky meander to Flour Market.md",
+    "Activities/Swim at Camps Bay tidal pool.md",
     "Welcome.md",
-    "Pip Trip October 2023/Coffee looking over town.md",
-    "Pip Trip October 2023/Run or walk and swim in Seapoint.md",
-    "Pip Trip October 2023/Pip trip October 2024.md",
+    "Activities/Coffee looking over town.md",
+    "Activities/Run or walk and swim in Seapoint.md",
+    "Activities/Pip trip October 2024.md",
     "netlify.toml",
-    "Pip Trip October 2023/Hout bay.md",
-    "Pip Trip October 2023"
+    "Activities/Hout bay.md",
+    "Activities"
   ]
 }
