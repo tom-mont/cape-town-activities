@@ -4,13 +4,13 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to steal some👆"
+LANDING_BUTTON = "Click to take a look at some of the possible activities!🫶"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "I have nothing but intelligence."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "./pip-trip-october-2023/pip-trip-board/"
 # (Optional) Site title on landing page
-LANDING_TITLE = "A site describing activities for Pip and Tom to do in October 💖"
+LANDING_TITLE = "A site describing things for Pip and Tom to do in October"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/tom-mont/cape-town-activities"
