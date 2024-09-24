@@ -4,25 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "917e3541fd7f224d",
+        "id": "710d4d287ca5a7d9",
         "type": "tabs",
         "children": [
           {
-            "id": "ef4e711d1d8a7d2b",
+            "id": "acf697033412172b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Pip Trip October 2023/Pip Trip Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Pip Trip October 2023/Pip Trip Index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -55,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "max bagels",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pip Trip October 2023/Pip Trip Board.md",
+                "file": "Pip Trip October 2023/Pip Trip Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pip Trip October 2023/Pip Trip Board.md",
+                "file": "Pip Trip October 2023/Pip Trip Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pip Trip October 2023/Pip Trip Board.md"
+                "file": "Pip Trip October 2023/Pip Trip Index.md"
               }
             }
           }
@@ -154,29 +148,30 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ef4e711d1d8a7d2b",
+  "active": "acf697033412172b",
   "lastOpenFiles": [
-    "Pip Trip October 2023/Pip Trip Board.md",
-    "Pip Trip October 2023/Pip trip October 2024.md",
-    "Pip Trip October 2023/Cook Dinner At Home.md",
-    "netlify.toml~",
-    "netlify.toml",
-    "Pip Trip October 2023/Sundowners at Bakoven.md",
-    "Pip Trip October 2023/Seapoint.md",
-    "Pip Trip October 2023/Ramen in Town.md",
+    "Pip Trip October 2023/Exploring Harrington.md",
+    "Really nice things in town.md",
+    "Pip Trip October 2023/Pip Trip Index.md",
     "Pip Trip October 2023/Ramen District Six.md",
-    "Pip Trip October 2023/Picnic in Disa park.md",
-    "Pip Trip October 2023/Moro on long street.md",
-    "Pip Trip October 2023/Kloof corner.md",
-    "Pip Trip October 2023/Hout bay.md",
-    "Pip Trip October 2023/Harrington.md",
-    "Pip Trip October 2023/Flour market.md",
-    "Pip Trip October 2023/De Waterkant Cofee Crawl.md",
-    "Pip Trip October 2023/Coffee walk through town.md",
-    "Pip Trip October 2023/Coffee over town.md",
-    "Pip Trip October 2023/Camps bay tidal pool.md",
+    "Pip Trip October 2023/Ramen in Town.md",
     "Pip Trip October 2023/Bar crawl down Kloof.md",
-    "Pip Trip October 2023",
-    "Welcome.md"
+    "Pip Trip October 2023/Moro on long street.md",
+    "Pip Trip October 2023/De Waterkant Cofee Crawl.md",
+    "Pip Trip October 2023/Coffee walk through Gardens.md",
+    "Pip Trip October 2023/Cook Dinner At Home.md",
+    "Pip Trip October 2023/Sundowners on Kloof corner.md",
+    "Pip Trip October 2023/Picnic in Disa park.md",
+    "Pip Trip October 2023/Sundowners at Bakoven.md",
+    "Pip Trip October 2023/Cheeky meander to Flour Market.md",
+    "Pip Trip October 2023/Swim at Camps Bay tidal pool.md",
+    "Welcome.md",
+    "Pip Trip October 2023/Coffee looking over town.md",
+    "Pip Trip October 2023/Run or walk and swim in Seapoint.md",
+    "netlify.toml~",
+    "Pip Trip October 2023/Pip trip October 2024.md",
+    "netlify.toml",
+    "Pip Trip October 2023/Hout bay.md",
+    "Pip Trip October 2023"
   ]
 }

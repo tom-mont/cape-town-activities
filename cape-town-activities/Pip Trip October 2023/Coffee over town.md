@@ -1,3 +1,0 @@
-- Up at 05h45 
-- Make coffee, walk past Spar
-- Find a spot

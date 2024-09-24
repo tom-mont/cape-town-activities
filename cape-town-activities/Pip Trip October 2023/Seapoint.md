@@ -1,4 +1,0 @@
-- Up at 05h45
-- Make coffee (decaf)
-- Seapoint for run, swim 
-- Pauline's (cinnamon roll)

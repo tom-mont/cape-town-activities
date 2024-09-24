@@ -1,2 +1,7 @@
-- Secret gin bar
-- Bodega ramen 
+### Activity 
+Head through to Wale street to sample some of the fun. Revisit the [Secret Gin Bar](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theginbar.co.za/&ved=2ahUKEwjXrLXTgtuIAxX8SvEDHVGwAD0QFnoECCIQAQ&usg=AOvVaw27ykLgUK9XE8SzZS_49oZI) before heading upstairs to [Bodega](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dineplan.com/restaurants/bodega-ramen&ved=2ahUKEwi08oX5gtuIAxXMA9sEHf6xLO4QFnoECD8QAQ&usg=AOvVaw2Pix4xhdlHZmZAVcjRZREX) for a bowl of Ramen. Certainly possible to head out for a drink afterwards.
+### Preparation required 
+Booking at [Bodega](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dineplan.com/restaurants/bodega-ramen&ved=2ahUKEwi08oX5gtuIAxXMA9sEHf6xLO4QFnoECD8QAQ&usg=AOvVaw2Pix4xhdlHZmZAVcjRZREX).
+## Possible locations
+- [Fable ](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fablecocktailbar.capetown/&ved=2ahUKEwiB6-qIg9uIAxUmcvEDHdgZIRsQFnoECEcQAQ&usg=AOvVaw3WAlgsZYPqUFdPq53cz3pV)
+- [Clarke's](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clarkesdining.co.za/&ved=2ahUKEwjSxe2Og9uIAxXDAtsEHamdGz0QFnoECDUQAQ&usg=AOvVaw06fELI8ht8Gum5EjLNtnBu)

@@ -1,2 +1,2 @@
-- Roxy's 
-- Downtown ramen
+### Activity
+Head down into Harrington for a drink and a bowl of ramen (or dumplings!). Stop at [Roxy Late Night's](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://roxylatenight.com/&ved=2ahUKEwjy_eaug9uIAxX5S_EDHZNWIKMQFnoECEMQAQ&usg=AOvVaw2gBlenfMa8i2-kmRGqFu3j) for a drink before heading through to [downtown ramen](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.eatout.co.za/venue/downtown-ramen/&ved=2ahUKEwjLjoK6g9uIAxWyX_EDHSKBB5sQFnoECEgQAQ&usg=AOvVaw3YZXSl6u9qGc2ig0Xyx6xm).
