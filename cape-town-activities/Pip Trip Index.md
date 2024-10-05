@@ -7,6 +7,7 @@ The below outlines some activities that could be pursued by Pip and Tom in Octob
 - [ ] [[Swim at Camps Bay tidal pool]]
 - [ ] [[Cheeky meander to Flour Market]]
 
+
 ## Evening (<2 hours)
 
 - [ ] [[Sundowners at Bakoven]]
@@ -28,3 +29,11 @@ The below outlines some activities that could be pursued by Pip and Tom in Octob
 - [ ] [[Bar crawl down Kloof]]
 - [ ] [[Ramen in Town]]
 - [ ] [[Ramen District Six]]
+## Restrauants/cafes to explore
+- Coffee shops
+	- [ ] [Ollie's specialty coffee](https://www.thatch.co/places/101589/oscs-clubhouse---ollies-za-specialty-coffee-and-pas-normal-studios)
+	- [ ] [Max's bagels ](https://www.instagram.com/maxbagels/p/DAQCFL9qmTO/)
+- Restaurants
+	- [ ] [Addis in Cape Town](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://addisincape.co.za/&ved=2ahUKEwjHssyYifeIAxXPRaQEHfJJDHEQFnoECC8QAQ&usg=AOvVaw3giPtvnF1_ldb_viwiENBv)
+
+ 
